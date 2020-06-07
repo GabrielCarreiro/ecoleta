@@ -1,2 +1,2 @@
 # Ecoleta
- NLW
+ Aplicação web para coleta de resíduos
