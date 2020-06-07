@@ -1,5 +1,5 @@
 {
-  "name": "NLW",
+  "name": "Ecoleta",
   "main": "src/server.js",
   "scripts": {
     "start": "nodemon src/server.js"
@@ -12,5 +12,10 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
