@@ -1,4 +1,4 @@
- <h1 align="center"> Ecoleta <h1>
+ <h1 align="center"> Ecoleta </h1>
  <p align="center"> <strong> Aplicação web </strong> para coleta de resíduos. </p>
 
 <p align="center">
