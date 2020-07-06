@@ -11,14 +11,8 @@
 
 Com <strong> Ecoleta </strong> você pode localizar na sua região, um ponto de coleta de resíduos, mais próximo de você. 
 Se não houver um ponto de coleta registrado na sua região, você pode cadastrar respeitando os requesitos solicitados. O ecoleta
-ajuda 
+facilita a busca por ponto de coleta de resíduos, de forma simples, e agradável.
 
-## ✍ Descrição
-
- A aplicação PetHome ajuda a localizar os pet shops, e locais de adoção de pet da sua cidade. 
- Caso precise você também pode cadastrar um local no sistema, registrando todos os requisitos 
- solicitados em nossa página. O objetivo da aplicação é facilitar o usuário quando o mesmo precisar 
- encontra um petshop,de forma simples e rápida. 
 
  ## 💻 Instalação e execução
  
